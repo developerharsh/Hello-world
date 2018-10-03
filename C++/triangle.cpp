@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main()
+void main()
 {
     int n,k,l=-1,r;
     cout<<"enter the value of rows:\n";
@@ -17,7 +17,6 @@ int main()
 
         for(int j=1;j<=2*i-1;j++)
         {
-
             cout<<"* ";
         }
         cout<<"\n";
