@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class co
+class SelSort
 {
     static void selection_sort(int m[])
     {   int a=m.length;
