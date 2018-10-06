@@ -28,6 +28,6 @@ int main()
        for(int j=1;j<=r;j++){
         cout<<"* ";
        }
-       cout<<"\n";
+       cout<<endl;
    }
 }
